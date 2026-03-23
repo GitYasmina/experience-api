@@ -1,0 +1,9 @@
+client.id: rkFfx8/2WO3auwqo9lN/sX+pbb0LYUy3ZWfdxNScoPP56jMBTMJ4Mg==
+client.secret: ZfgZ4xFN87TS4Lv9PTtKjR7ip8yX66jaP67XvbepyOTbCaLZLfZK1g==
+http.port: "8081"
+
+process:
+  protocol: "HTTP"
+  host: "p-test-muleyasmina-app-9c39km.5sc6y6-4.usa-e2.cloudhub.io"
+  port: "8081"
+  basePath: "/api/*"
